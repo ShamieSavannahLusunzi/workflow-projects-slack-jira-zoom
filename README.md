@@ -9,5 +9,4 @@ This repository contains academic case studies focused on Agile process improvem
 - Zoom: Building psychological safety in meetings with anonymous feedback.
 
 **What's included:**
-- Individual PDFs for each case study
-- Combined case study document: `Agile_Process_Improvement_Case_Studies.pdf`
+- `Agile_Process_Improvement_Case_Studies.pdf` – contains all three case studies
